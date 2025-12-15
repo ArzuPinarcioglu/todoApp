@@ -1,4 +1,4 @@
-## 🎯 Project Purpose
+## Project Purpose
 
 This project was developed as an experimental learning project while transitioning into **Jetpack Compose**.
 
