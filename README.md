@@ -12,5 +12,5 @@ The project is intentionally simple and serves as a foundation for further impro
 
 
 ## 🎥 Demo
-https://github.com/ArzuPinarcioglu/todoApp/blob/master/videos/Screen_recording_20251215_142309.mp4
+[https://github.com/ArzuPinarcioglu/todoApp/blob/master/videos/Screen_recording_20251215_142309.mp4](https://github.com/user-attachments/assets/a4159d81-2d7a-4c74-b22d-d6f4a9c9932d)
 
