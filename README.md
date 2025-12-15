@@ -9,3 +9,7 @@ It focuses on:
 - Clean Architecture with Hilt integration
 
 The project is intentionally simple and serves as a foundation for further improvements and experimentation.
+
+
+## 🎥 Demo
+https://github.com/ArzuPinarcioglu/todoApp/blob/master/assets/Screen_recording_20251215_142309.webm
